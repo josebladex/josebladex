@@ -129,15 +129,25 @@ I work across the full product lifecycle: frontend, backend, DevOps, automation,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josebladex&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebladex&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Public_repositories-13-70A5FD?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/josebladex?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_·_AI_·_Cloud_·_IoT-38BDAE?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=josebladex&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josebladex&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebladex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=tex&custom_title=Public%20Repository%20Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josebladex&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <sub>These cards use public GitHub data. Private/client work is represented in the experience and tech stack sections.</sub>
 </p>
 
 ---
