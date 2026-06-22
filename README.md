@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm José Luis Plata Zabala 👋</h1>
+<h1 align="center">Hi, I'm José Plata 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer · Computer Engineer · AI & Cloud Builder · Mechatronics Engineering Student</strong>
@@ -12,7 +12,7 @@
   <a href="https://github.com/josebladex">GitHub</a> ·
   <a href="https://josebladex.github.io/portfolio/">Portfolio</a> ·
   <a href="mailto:jose.plata.dev@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/joseplata">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jose-luis-plata-zabala">LinkedIn</a>
 </p>
 
 ---
