@@ -140,18 +140,15 @@ I work across the full product lifecycle: frontend, backend, DevOps, automation,
 ## 📊 GitHub Snapshot
 
 <p align="center">
+  <img src="https://img.shields.io/github/followers/josebladex?style=for-the-badge&logo=github&label=Followers&color=70A5FD" />
   <img src="https://img.shields.io/badge/Public_repositories-14-70A5FD?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/josebladex?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-Full_Stack_·_AI_·_Cloud_·_IoT-38BDAE?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://gh-readme-stats-two.vercel.app/api?username=josebladex&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" />
-  <img height="180" src="https://gh-readme-stats-two.vercel.app/api/top-langs/?username=josebladex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=tex&custom_title=Public%20Repository%20Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josebladex&theme=tokyo-night&hide_border=true&area=true&radius=8" />
+  <a href="https://github.com/josebladex">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=josebladex&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="GitHub contribution activity" />
+  </a>
 </p>
 
 <p align="center">
