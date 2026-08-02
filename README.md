@@ -92,6 +92,14 @@ I work across the full product lifecycle: frontend, backend, DevOps, automation,
 
 ## 💼 Featured Experience
 
+### Taukén Dynamics — Infrastructure & Marketing Platform
+
+**Full Stack Developer · DevOps · Infrastructure Engineer**
+
+- Deployed a production 4-service stack on Oracle Cloud via Dokploy: Astro landing site, n8n workflow automation, PostgreSQL, and Umami analytics.
+- Authored 5 production n8n workflows powering a B2B marketing campaign admin UI with rate limiting, HMAC-signed unsubscribe links, and Mailjet SMTP integration.
+- Operated Traefik-based path-scoped public surfaces (webhooks, MCP server, dashboards) with documented denial paths and fail-closed placeholders.
+
 ### Adminpro — Financial Management Platform
 
 **Full Stack Developer · Project Manager · DevOps**
@@ -132,18 +140,18 @@ I work across the full product lifecycle: frontend, backend, DevOps, automation,
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_repositories-13-70A5FD?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Public_repositories-14-70A5FD?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/followers/josebladex?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-Full_Stack_·_AI_·_Cloud_·_IoT-38BDAE?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josebladex&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebladex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=tex&custom_title=Public%20Repository%20Languages" />
+  <img height="180" src="https://gh-readme-stats-two.vercel.app/api?username=josebladex&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" />
+  <img height="180" src="https://gh-readme-stats-two.vercel.app/api/top-langs/?username=josebladex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=tex&custom_title=Public%20Repository%20Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josebladex&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josebladex&theme=tokyo-night&hide_border=true&area=true&radius=8" />
 </p>
 
 <p align="center">
