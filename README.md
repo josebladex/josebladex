@@ -128,12 +128,29 @@ I work across the full product lifecycle: frontend, backend, DevOps, automation,
 
 - 🎓 Computer Engineering — Universidad ULACIT
 - ⚙️ Mechatronics Engineering — Universidad de Panamá
-- 📜 FreeCodeCamp Certifications:
-  - Responsive Web Design
-  - JavaScript Algorithms and Data Structures
-  - Front-End Libraries
-  - Back-End Development and APIs
-  - C# Development Fundamentals
+
+### Certifications
+
+**Google Cloud · Coursera**
+- Google Cloud DevOps Engineer Professional Certificate — [View](https://drive.google.com/file/d/14buisYPBge8cItSppCXGUVlg2DLLCoyr/view?usp=drive_link)
+- Logging and Monitoring in Google Cloud — [View](https://drive.google.com/file/d/1zsK77OYiYnlMi2X8b4xRVm3Iyn1v_avQ/view?usp=drive_link)
+- Reliable Google Cloud Infrastructure: Design and Process — [View](https://drive.google.com/file/d/11wNRHS9PJTpzeNylhQDPzL-eRwg2g7Z_/view?usp=drive_link)
+
+**freeCodeCamp**
+- Back End Development and APIs (2023) — [View](https://drive.google.com/file/d/1-H-Fjpr-cTfCQg0XZwQ-Jx4VMPSoNtSs/view?usp=drive_link)
+- Foundational C# with Microsoft (2025) — [View](https://drive.google.com/file/d/1ET9-mawYyyA-w_2tNNMN4z5L_fj3u7WQ/view?usp=drive_link)
+- Front End Development Libraries (2023) — [View](https://drive.google.com/file/d/1dQr_NmXlPlVNvcqYrpF1tKANosgpVHBi/view?usp=drive_link)
+- Legacy JavaScript Algorithms and Data Structures (2022) — [View](https://drive.google.com/file/d/1zH4acIPkYvUx9dFmphNPLRBzctWlGfMF/view?usp=drive_link)
+- Responsive Web Design (2022) — [View](https://drive.google.com/file/d/1uX6GZbHcTLit2li7IgJjrxDZcrl9lK7/view?usp=drive_link)
+
+**NASA Space Apps**
+- Space Apps Challenge 2024 — [View](https://drive.google.com/file/d/1IXgIlji4IaUW87PWobubqPQ40SV0vHTt/view?usp=drive_link)
+- Space Apps Challenge 2025 — [View](https://drive.google.com/file/d/12lzaqbbwjihh7EJi-DDfrD86s1ztrn4h/view?usp=drive_link)
+
+**Other**
+- Tutorías de Robótica · MEDUCA (2023) — [View](https://drive.google.com/file/d/1zBKFRy1o40lX36S8Z-wuBJd4h1ryJqw_/view?usp=drive_link)
+- English Placement Test (B1) · Platzi — [View](https://drive.google.com/file/d/1u7lP1rJ8l1S3POCt0k13R3-RzaS-uc6M/view?usp=drive_link)
+- Cambridge English Entry Level Certificate in ESOL International (Entry 2) (Key) · Cambridge (2015) — [View](https://drive.google.com/file/d/1yhprIefPK7DjdNrHeCfeX5S5xQRwWn3P/view?usp=drive_link)
 
 ---
 
